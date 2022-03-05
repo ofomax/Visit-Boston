@@ -30,28 +30,28 @@ section.secText p{
 
 
 section.sec1{
-    background-image: url("C:/Users/Admin/Documents/VS_Code_Files/WeekendProject/images/106-Historic-Boston.jpg");
+    background-image: url("https://github.com/ofomax/Visit-Boston/blob/master/images/106-Historic-Boston.jpg?raw=true");
     background-size: cover;
     background-position: center center;
     background-attachment: fixed;
 }
 
 section.sec2{
-    background-image: url("C:/Users/Admin/Documents/VS_Code_Files/WeekendProject/images/boston-massachusetts-BOSTONTG0221.jpg");
+    background-image: url("https://github.com/ofomax/Visit-Boston/blob/master/images/boston-massachusetts-BOSTONTG0221.jpg?raw=true");
     background-size: cover;
     background-position: center center;
     background-attachment: fixed;
 }
 
 section.sec3{
-    background-image: url("C:/Users/Admin/Documents/VS_Code_Files/WeekendProject/images/boston-public-garden.jpg");
+    background-image: url("https://github.com/ofomax/Visit-Boston/blob/master/images/boston-public-garden.jpg?raw=true");
     background-size: cover;
     background-position: center center;
     background-attachment: fixed;
 }
 
 section.sec4{
-    background-image: url("C:/Users/Admin/Documents/VS_Code_Files/WeekendProject/images/city-boston-2880x1870.jpg");
+    background-image: url("https://github.com/ofomax/Visit-Boston/blob/master/images/city-boston-2880x1870.jpg?raw=true");
     background-size: cover;
     background-position: center center;
     background-attachment: fixed;
